@@ -1,0 +1,20 @@
+Grape_Blight_Leaf
+Grape_Healthy
+Grape_Leaf_Vine_Disease
+Grape_Rust_Fungus
+Tomamto_Leaf_curl_virus
+Tomamto_Leaf_Healthy
+Tomamto_Mosaic_virus
+Tomamto_Yellow_Disease
+
+
+
+//demo code//
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="unauthorized")
+project = rf.workspace("weed-detection5").project("weed-detection57")
+version = project.version(1)
+dataset = version.download("yolov8")
+                

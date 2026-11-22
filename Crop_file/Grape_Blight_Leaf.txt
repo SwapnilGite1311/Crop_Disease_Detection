@@ -1,0 +1,12 @@
+The plant is suffering from blight disease. So you can use the following pesticides.
+Pesticides:
+  1.Flint 500 WG: Can be used to control powdery mildew and downy mildew in grapes
+   2.Captan: A fungicide that can control downy mildew, but not powdery mildew or black rot very well
+3.Ferbam: Can control black rot
+4.Fenarimol: Can control powdery mildew and some black rot
+5.Mancozeb: Can control downy mildew and black rot
+6.Metalaxyl: Can control downy mildew
+7.Myclobutanil: Can control powdery mildew and black rot
+8.Potassium bicarbonate: Can control some powdery mildew
+9.Wettable sulfur: Can control powdery mildew, but can be phytotoxic on some cultivars
+10.Ziram: Can control some black rot and downy mildew

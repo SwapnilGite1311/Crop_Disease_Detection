@@ -1,0 +1,10 @@
+pip install opencv-python
+pip install keras
+pip install tensorflow
+pip install matplotlib
+pip install scipy
+pip install pywhatkit
+pip install geopy
+pip install ultralytics
+
+Version 3.9

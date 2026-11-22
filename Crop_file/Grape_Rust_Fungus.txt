@@ -1,0 +1,7 @@
+The plant is suffering from Rust Fungus disease. So you can use the following pesticides.
+Pesticides:
+1.Aprovia Top: A tank-mix fungicide that can be used to control grape rust 
+2.Baycor: A fungicide that can be used to control grape rust by spraying every two weeks during the growing season 
+3.Mancozeb: A fungicide that can be used to protect plants from rust 
+4.Myclobutanil: A fungicide that can be used to eradicate rust 
+5.Triadimefon: A fungicide that can be used to control specific rusts

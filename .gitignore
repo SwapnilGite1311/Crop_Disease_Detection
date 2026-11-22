@@ -1,0 +1,21 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local secrets and generated messaging history
+.env
+.env.*
+!.env.example
+PyWhatKit_DB.txt
+
+# Images captured during live use may contain personal content
+Captured_images/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

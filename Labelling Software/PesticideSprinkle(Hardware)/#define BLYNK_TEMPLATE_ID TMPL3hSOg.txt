@@ -1,0 +1,5 @@
+#define BLYNK_TEMPLATE_ID "TMPL3yxfKbG6M"
+#define BLYNK_TEMPLATE_NAME "PesticideSprinkle"
+
+#define BLYNK_TEMPLATE_NAME "PesticideSprinkle"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"

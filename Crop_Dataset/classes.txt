@@ -1,0 +1,8 @@
+Grape_Blight_Leaf
+Grape_Healthy
+Grape_Leaf_Vine_Disease
+Grape_Rust_Fungus
+Tomamto_Leaf_curl_virus
+Tomamto_Leaf_Healthy
+Tomamto_Mosaic_virus
+Tomamto_Yellow_Disease
